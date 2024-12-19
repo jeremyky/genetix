@@ -1,0 +1,2 @@
+# Make sure your virtual environment is activated
+python app.py
